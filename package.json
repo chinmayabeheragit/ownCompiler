@@ -1,0 +1,12 @@
+{
+    "name": "simple-compiler",
+    "version": "1.0.0",
+    "description": "A simple arithmetic language compiler",
+    "main": "src/main.js",
+    "scripts": {
+      "start": "node src/main.js"
+    },
+    "dependencies": {},
+    "devDependencies": {}
+  }
+  
